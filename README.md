@@ -29,11 +29,11 @@ The project focuses on building a complete, data-driven application using modern
 
 ### 🌐 Live Demo
 
-[View Live Website](YOUR_NETLIFY_LINK)
+[View Live Website](https://the-wild-oasis-h.netlify.app)
 
 ### 📂 GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
+[View Source Code](https://github.com/Fizza721/the-wild-oasis)
 
 ### 👩‍💻 Author
 
